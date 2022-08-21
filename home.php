@@ -26,7 +26,7 @@
     
         <div class="swiper home-slid">
            <div class="swiper-wrapper">
-            <div class="swiper-slide slide" style="background:url(H.jpg)no-repeat">
+            <div class="swiper-slide slide" style="background:url(photos/H.jpg)no-repeat">
             
                <div class="content">
                 <span>The world is a book </span>
@@ -177,5 +177,6 @@
         </div>
         <div class="credit">designed by <span>Tanu Raj</span> | all rights reserved!</div>
     </section>
+    
 </body>
 </html>

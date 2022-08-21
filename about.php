@@ -25,7 +25,7 @@
     </div>
     <section class="about">
         <div class="image">
-            <img src="abt.jpg" alt="">
+            <img src="photos/abt.jpg" alt="">
         </div>
         <div class="content">
             
